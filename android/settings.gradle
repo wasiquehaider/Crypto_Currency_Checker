@@ -1,0 +1,3 @@
+rootProject.name = 'react_native_crypto_tracker'
+
+include ':app'

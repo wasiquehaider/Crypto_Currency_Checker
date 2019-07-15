@@ -7,6 +7,8 @@ export const images = {
     "https://res.cloudinary.com/da7jhtpgh/image/upload/v1508609486/ripple_p0xeut.png",
   BCH:
     "https://res.cloudinary.com/da7jhtpgh/image/upload/v1516327336/bch_2x_hahroi.png",
+  BNB:
+    "https://banner2.kisspng.com/20180430/aaq/kisspng-binance-cryptocurrency-exchange-coin-trade-5ae7459fd752c3.148149881525106079882.jpg",
   LTC:
     "https://res.cloudinary.com/da7jhtpgh/image/upload/v1512427497/ltc_fjbqjf.png",
   DASH:
@@ -34,5 +36,7 @@ export const images = {
   TRX:
     "https://res.cloudinary.com/da7jhtpgh/image/upload/v1516326885/trx_2x_ukhxjm.png",
   EOS:
-    "https://res.cloudinary.com/da7jhtpgh/image/upload/v1516326878/eos_2x_dvr7p0.png"
+    "https://res.cloudinary.com/da7jhtpgh/image/upload/v1516326878/eos_2x_dvr7p0.png",
+  USDT:
+    "http://www.iconarchive.com/download/i109630/cjdowner/cryptocurrency-flat/PotCoin-POT.ico"
 };

@@ -14,7 +14,7 @@ export const FetchCoinData = () => {
       method: "get",
       url: `${apiBaseURL}/v1/cryptocurrency/listings/latest?limit=100`,
       headers: {
-        "X-CMC_PRO_API_KEY": "YOUR API KEY"
+        "X-CMC_PRO_API_KEY": "Enter Your API KEY"
       }
     })
       .then(res => {
